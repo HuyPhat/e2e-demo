@@ -1,0 +1,4 @@
+[
+  { "id": 1, "text": "Đọc tài liệu Playwright", "done": true },
+  { "id": 2, "text": "Viết test đầu tiên", "done": false }
+]

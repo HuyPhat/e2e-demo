@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; max-width: 480px; margin: 40px auto; padding: 0 16px; }
+form, [role='group'] { display: flex; gap: 8px; margin-bottom: 12px; align-items: center; }
+ul { padding: 0; list-style: none; }
+li { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid #eee; }
+li.done label { text-decoration: line-through; color: #888; }
+button[aria-pressed='true'] { font-weight: bold; }
+[role='alert'] { color: crimson; }
